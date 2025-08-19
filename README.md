@@ -68,6 +68,4 @@ Gained hands-on experience with Power BI and Excel by building interactive dashb
 ## 📜 Certifications  
 - [Data Analytics course by Novitech R&D Pvt. Ltd](https://drive.google.com/file/d/1E6fsFFJ1PLA1FoEBnjoU8KUOXwfi53wN/view?usp=sharing)  
 - [NPTEL Online Certification on Fuzzy Sets, Logic and Systems & Applications](https://drive.google.com/file/d/1igUEVq-SMcJ_DLM8Gwzjc3WwS1C45zbK/view?usp=sharing)  
----
-  ## 💼 Resume
-  -[📄 Download my resume (PDF)](Saranya-Resume.pdf)
+

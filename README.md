@@ -1,4 +1,4 @@
-# # 👋 Hi, I’m Saranya Subramani
+#  👋 Hi, I’m Saranya Subramani
 
 📞 (+91) 9944593669  
 ✉️ [saranyaswetha1905@gmail.com](mailto:saranyaswetha1905@gmail.com)  

@@ -1,4 +1,4 @@
-# 💼 Resume – Saranya Subramani
+# # 👋 Hi, I’m Saranya Subramani
 
 📞 (+91) 9944593669  
 ✉️ [saranyaswetha1905@gmail.com](mailto:saranyaswetha1905@gmail.com)  
@@ -57,7 +57,17 @@ Gained hands-on experience with Power BI and Excel by building interactive dashb
 
 ---
 
+## 🤝 Volunteering  
+
+**Youth Red Cross (YRC) Volunteer**  
+- Participated in community service activities such as **school painting drives**, **blood donation camps**, and organizing **social awareness events**.  
+- Contributed to teamwork, leadership, and social responsibility while engaging with diverse groups.
+   
+---
+
 ## 📜 Certifications  
 - [Data Analytics course by Novitech R&D Pvt. Ltd](https://drive.google.com/file/d/1E6fsFFJ1PLA1FoEBnjoU8KUOXwfi53wN/view?usp=sharing)  
 - [NPTEL Online Certification on Fuzzy Sets, Logic and Systems & Applications](https://drive.google.com/file/d/1igUEVq-SMcJ_DLM8Gwzjc3WwS1C45zbK/view?usp=sharing)  
-[📄 Download my resume (PDF)](Saranya-Resume.pdf)
+---
+  ## 💼 Resume
+  -[📄 Download my resume (PDF)](Saranya-Resume.pdf)
